@@ -1,0 +1,31 @@
+﻿gmnspy.schema
+=============
+
+.. automodule:: gmnspy.schema
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      document_schema
+      read_config
+      read_schema
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
